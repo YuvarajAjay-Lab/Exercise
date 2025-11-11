@@ -2,11 +2,11 @@
  
 Write a Java program to print the following patterns:
 
-    1                       1   
-   21                       21  
-  321                       321 
- 4321                       4321
-54321                       54321
+    1
+   21
+  321
+ 4321
+54321
 
 
  */
