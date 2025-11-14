@@ -10,9 +10,9 @@
 
 public class Test6 
 {
-    
-    public static void main(String[] args) {
-        System.out.println();
+    public static void main(String[] args) 
+    {
+        System.out.println("Main Program");
         for (int i = 5; i >= 1; i--) 
         {
             for (int j = 0; j < 5 - i; j++)
